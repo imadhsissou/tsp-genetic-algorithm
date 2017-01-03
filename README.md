@@ -24,7 +24,7 @@ the number of the population that should be preserved from generation to generat
 specifies how many mutations to apply to each member of the population.
 ```
 
-##Results
+## Results
 
 With an input of 12 points (cities), a brute-force solution takes about **6 minutes 20 seconds** to complete. The best order is [0 9 10 11 1 4 6 2 8 3 7 5], and the distance is 47.6887.
 
@@ -46,5 +46,9 @@ Shortest Path Found : [0 9 10 11 1 4 6 2 8 3 7 5]
 Length is : 47.6887
 ```
 
-
+## Class List
+Here are the classes, structs, unions and interfaces with brief descriptions:
+![Imgur](http://i.imgur.com/BLCdzJp.png)
+---
+![Imgur](http://i.imgur.com/M8hBH2P.png)
 
