@@ -1,6 +1,9 @@
 # TSPGA
 An Implementation of the Traveling Salesman Problem Solution in Three-dimensional space Using Genetic Algorithms.
 
+![xkcd](http://imgs.xkcd.com/comics/travelling_salesman_problem.png)<br>
+ xkcd: [399] Travelling Salesman Problem
+ 
 ### Usage
 ```
 Usage: ./tsp-ga [OPTIONS] < [TEST FILE]
