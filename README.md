@@ -48,7 +48,7 @@ Length is : 47.6887
 
 ## Class List
 Here are the classes, structs, unions and interfaces with brief descriptions:
-![Imgur](http://i.imgur.com/BLCdzJp.png)
+![Imgur](http://i.imgur.com/Z7WWNjB.png)
 ---
-![Imgur](http://i.imgur.com/M8hBH2P.png)
+![Imgur](http://i.imgur.com/k54Yc51.png)
 
