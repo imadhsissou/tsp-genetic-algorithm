@@ -1,5 +1,5 @@
 # TSPGA
-The Implementation of a TSP solution in three-dimensional space using Genetic Algorithms.
+Implementation of a Genetic Algorithm-Based Heuristic for Solving the TSP in 3D-space.
 
 ![xkcd](http://imgs.xkcd.com/comics/travelling_salesman_problem.png)<br>
  xkcd: [399] Travelling Salesman Problem
